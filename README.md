@@ -1,4 +1,4 @@
-# du_alumni_flutter
+# DU Alumni App
 
 A new Flutter project.
 
