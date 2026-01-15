@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114043642506",
+    "project_id": "duaab89-67c12",
+    "storage_bucket": "duaab89-67c12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114043642506:android:9799d6564776feb7d84373",
+        "android_client_info": {
+          "package_name": "com.example.du_alumni_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARyyucFxB5h22FyZM9SRIfISYAIzbcKM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
